@@ -1,1 +1,12 @@
-
+img.animated.zoomInUp {
+    animation-duration: 2s;
+    
+}
+img.animated.flipInX {
+    animation-duration: 2s;
+    animation-delay:1s ;
+  }
+img.animated.fadeInDown {
+    animation-duration: 2s;
+    animation-delay: 1s;
+}
